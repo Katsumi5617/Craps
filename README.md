@@ -2,5 +2,5 @@
 
 ##Integrantes 
 
--Samuel Kerguelén Garcia
--Sofia Henao Bustamante
+- Samuel Kerguelén Garcia 
+- Sofia Henao Bustamante
