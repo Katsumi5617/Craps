@@ -1,6 +1,6 @@
 # Craps 
 
-##Integrantes 
+## Integrantes 
 
 - Samuel Kerguelén Garcia 
 - Sofia Henao Bustamante
